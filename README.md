@@ -14,3 +14,8 @@ This repository serves as a public playground for experimenting with different t
     * Small organizational voting processes
 
     No front has been used.
+
+2-) cnab_reader: Code to read any kind of CNABs documents
+
+    It extracts data based on predefined positional mappings provided in the configuration.
+    The solution is backend-focused, with no frontend implementation.
